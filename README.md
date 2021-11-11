@@ -20,7 +20,7 @@ Mark Drummond @  Mark.Drummond@DrummondandCompany.com
 
 ## License
 
-This project is licensed under the [Mark Drummond] License - see the LICENSE.md file for details
+This project is licensed under the [Mark Drummond] License 
 
 ## Acknowledgments
 Team at Pro-Activity https://www.pro-activity.com/
