@@ -25,7 +25,7 @@ This project is licensed under the [Mark Drummond] License
 ## Acknowledgments
 Team at Pro-Activity https://www.pro-activity.com/
 
-Nick Pfaff npfaff@pro-activity.com 
+Nick Pfaff - Partner at Pro-Activity Associates npfaff@pro-activity.com 
 
 Professor Jie Tao - jtao@fairfield.edu
 
