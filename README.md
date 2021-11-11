@@ -6,8 +6,6 @@
 ### This project is to research and identify correlations between different metrics available with off the shelf wearables and develop an algorithm that can predict onset of moving from one state to another. Multiclass Classification problem.
 
 
-An in-depth paragraph about your project and overview of use.
-
 
 ## Authors
 Mark Drummond @  mark.drummond@student.fairfield.edu  or Mark.Drummond@DrummondandCompany.com
