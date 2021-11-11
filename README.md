@@ -10,7 +10,7 @@ An in-depth paragraph about your project and overview of use.
 
 
 ## Authors
-Mark Drummond @  Mark.Drummond@DrummondandCompany.com
+Mark Drummond @  mark.drummond@student.fairfield.edu  or Mark.Drummond@DrummondandCompany.com
 
 
 ## Version History
