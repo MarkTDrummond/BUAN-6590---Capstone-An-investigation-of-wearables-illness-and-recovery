@@ -24,8 +24,12 @@ This project is licensed under the [Mark Drummond] License
 
 ## Acknowledgments
 Team at Pro-Activity https://www.pro-activity.com/
+
 Nick Pfaff npfaff@pro-activity.com 
+
 Professor Jie Tao - jtao@fairfield.edu
+
 Professor Christopher Huntley - chuntley@fairfield.edu
+
 Professor Philip Maymin - pmaymin@fairfield.edu
 
